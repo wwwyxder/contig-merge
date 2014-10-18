@@ -1,0 +1,4 @@
+READ-ID (0 based)
+READ-LENGTH
+READ-START-POSITION in tandem ref (1 based)
+MAPPED-POSITION in tandem ref (1 based)
