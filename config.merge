@@ -1,3 +1,4 @@
 inputFile   /home/yxd/contig-merge/contigSetLong.fa
 outputFile  /home/yxd/contig-merge/contigSetLongMerged.fa
 cutLength   50
+minimumOverlapLength    50
